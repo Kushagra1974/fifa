@@ -1,0 +1,11 @@
+.card {
+  width: fit-content;
+  height: fit-content;
+  padding: 20px;
+}
+.heading {
+  font-family: Roboto;
+  font-weight: 300;
+  font-size: 30px;
+  margin: 5px 0;
+}

@@ -1,0 +1,47 @@
+.heading {
+  text-align: center;
+  font-weight: 300;
+  color: #777;
+}
+
+.flex {
+  display: flex;
+}
+.profile {
+  width: 50%;
+  margin-left: 100px;
+  margin-top: 30px;
+}
+.graph {
+  width: 50%;
+  border-right: 1px solid #dedede;
+  padding: 0 20px;
+}
+.span {
+  background-color: green;
+  color: white;
+  padding: 10px 20px;
+  font-size: 18px;
+  font-weight: 300;
+  border-radius: 7px;
+  margin-right: 20px;
+}
+.profile p {
+  color: #555;
+  font-weight: 300;
+  text-decoration: none;
+}
+.age {
+  margin-top: 50px;
+}
+.back {
+  position: absolute;
+  left: 150px;
+  text-decoration: none;
+  color: #777;
+}
+p strong {
+  margin-left: 10px;
+  color: #777;
+  font-size: 15px;
+}
